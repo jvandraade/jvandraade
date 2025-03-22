@@ -9,7 +9,7 @@
 
 - 🎓 Technologist in Systems Analysis and Development.  
 - 📌 Postgraduate student in Software Engineering.
-- 📌 Technology certifications available on my [LinkedIn](#)  
+- 📌 Technology certifications available on my [LinkedIn](#https://www.linkedin.com/in/joão-vitor-andrade-santos/)  
 - 📌 Continuous learning through online courses.  
 
 ---
