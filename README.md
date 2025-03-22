@@ -9,7 +9,7 @@
 
 - 🎓 Technologist in Systems Analysis and Development.  
 - 📌 Postgraduate student in Software Engineering.
-- 📌 Technology certifications available on my [LinkedIn](#https://www.linkedin.com/in/joão-vitor-andrade-santos/)  
+- 📌 Technology certifications available on my [LinkedIn](https://www.linkedin.com/in/joão-vitor-andrade-santos/)  
 - 📌 Continuous learning through online courses.  
 
 ---
@@ -93,6 +93,6 @@ My focus is to grow as a developer, improve my skills, and create scalable and i
 
 ### 🔗 Where to Find Me
 
-💼 [LinkedIn](#https://www.linkedin.com/in/joão-vitor-andrade-santos/)  
+💼 [LinkedIn](https://www.linkedin.com/in/joão-vitor-andrade-santos/)  
 📨 Contact: jvandraadetech@gmail.com 
 Let's connect and build amazing things together! 🚀
