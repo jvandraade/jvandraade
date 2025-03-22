@@ -9,7 +9,7 @@
 
 - 🎓 Technologist in Systems Analysis and Development.  
 - 📌 Postgraduate student in Software Engineering.
-- 📌 Technology certifications available on my [LinkedIn](https://www.linkedin.com/in/joão-vitor-andrade-santos/)  
+- 📌 Technology certifications available on my [LinkedIn](https://www.linkedin.com/in/joão-vitor-andrade-santos/).  
 - 📌 Continuous learning through online courses.  
 
 ---
@@ -53,7 +53,7 @@ My focus is to grow as a developer, improve my skills, and create scalable and i
 
 ### ☁ Databases & Cloud
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)\  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 
 ### 💙 Interests & Hobbies
 
@@ -68,15 +68,15 @@ My focus is to grow as a developer, improve my skills, and create scalable and i
 ### 🎮 eSports
 
 🏆 Staff of *AXK* team and competitive player in my spare time.  
-📸 Team's Instagram: [@axkrum\_gg](https://www.instagram.com/axkrum_gg/) 
+📸 Team's Instagram: [@axkrum\_gg](https://www.instagram.com/axkrum_gg/). 
 
 ---
 
 ### 🌎 Languages
 
-🇧🇷 Portuguese – Native. 
-🇺🇸 English – Intermediate.  
-🇫🇷 French – Beginner. 
+- 🇧🇷 Portuguese – Native. 
+- 🇺🇸 English – Intermediate.  
+- 🇫🇷 French – Beginner. 
 
 ---
 
